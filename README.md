@@ -1,3 +1,18 @@
+## Project Prototype
+
+![Hardware Setup](1.jpeg)
+
+## Wet Waste Detection
+
+![Wet Waste](2.jpeg)
+
+## Dry Waste Detection
+
+![Dry Waste](3.jpeg)
+
+## GSM Alert System
+
+![GSM Alert](4.jpeg)
 # Smart Garbage System for Gated Communities
 
 ## Overview
